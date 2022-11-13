@@ -1,0 +1,9 @@
+.list-card{
+    display: flex;
+    justify-content: space-between;
+    background: whitesmoke;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin: 10px 0;
+    border: 1px solid lightblue;
+}
